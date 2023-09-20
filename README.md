@@ -2,7 +2,7 @@
 
 This React Native Package is developed by Ayush Khade. A simple library for progress bar with a tooltip option and fully customisable.
 ![Demo](./Screenshot_1695249524.png)
-<img src='./a.jpg' width=60%>
+<img src='./a.jpg' width="30%">
 ## Installation
 
 - Go to your project's root folder and run `npm install react-native-tooltip-progress-bar` or `yarn add react-native-tooltip-progress-bar`.
