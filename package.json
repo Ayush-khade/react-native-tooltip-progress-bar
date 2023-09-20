@@ -1,0 +1,39 @@
+{
+  "name": "react-native-tooltip-progress-bar",
+  "version": "1.0.0",
+  "description": "Animated Progress Bar with tooltip",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayush-khade/react-native-tooltip-progress-bar.git"
+  },
+  "keywords": [
+    "Progress",
+    "Bar",
+    "Tooltip",
+    "Animated",
+    "Tooltip",
+    "react-native-progress-bar",
+    "react",
+    "native",
+    "tooltip",
+    "react",
+    "native",
+    "progress",
+    "bar",
+    "react",
+    "native",
+    "animated",
+    "progress",
+    "bar"
+  ],
+  "author": "Ayush Khade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ayush-khade/react-native-tooltip-progress-bar/issues"
+  },
+  "homepage": "https://github.com/Ayush-khade/react-native-tooltip-progress-bar#readme"
+}
