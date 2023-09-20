@@ -26,16 +26,14 @@ import RNProgressBar from 'react-native-tooltip-progress-bar';
 
 ```
 
-### Properties for all progress components
+### Properties for RNProgressBar
 
 | Prop                                 | Description                                                                  | Default                |
 | ------------------------------------ | ---------------------------------------------------------------------------- | ---------------------- |
-| **`animated`**                       | Whether or not to animate changes to `progress`.                             | `true`                 |
-| **`indeterminate`**                  | If set to true, the indicator will spin and `progress` prop will be ignored. | `false`                |
-| **`indeterminateAnimationDuration`** | Sets animation duration in milliseconds when indeterminate is set.           | `1000`                 |
-| **`progress`**                       | Progress of whatever the indicator is indicating. A number between 0 and 1.  | `0`                    |
-| **`color`**                          | Fill color of the indicator.                                                 | `rgba(0, 122, 255, 1)` |
-| **`unfilledColor`**                  | Color of the remaining progress.                                             | _None_                 |
-| **`borderWidth`**                    | Width of outer border, set to `0` to remove.                                 | `1`                    |
-| **`borderColor`**                    | Color of outer border.                                                       | `color`                |
+| **`low`**                            | Lower limit of a `Progress Bar`.                                             | `0`                    |
+| **`high`**                           | Higher limit of a `Progress Bar`.                                            | `100`                  |
+| **`value`**                          | Progres value.                                                               | `Random`               |
+| **`type`**                           | Progress Bar type `horizontal` or `vertical`.                                | `horizontal`           |
+| **`showTooltip`**                    | Tooltip is `visible` when `true`.                                            | `true`                 |
+| **`options`**                        | Options for the Progress Bar                                                 | `{ leftColor:"#008b91", rightColor:"#b53636", barThickness:10 }` |
 
