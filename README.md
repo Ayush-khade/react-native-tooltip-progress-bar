@@ -136,5 +136,5 @@ export default App;
 | **`value`**                          | Progres value.                                                               | `Random`               |
 | **`type`**                           | Progress Bar type `horizontal` or `vertical`.                                | `horizontal`           |
 | **`showTooltip`**                    | Tooltip is `visible` when `true`.                                            | `true`                 |
-| **`options`**                        | Options for the Progress Bar                                                 | `{ leftColor:"#008b91", rightColor:"#b53636", barThickness:10 }` |
+| **`options`**                        | Options for the Progress Bar                                                 | `{ leftColor:"#008b91", rightColor:"#b53636", barThickness:10, tooltipSize:10, tooltipTextColor:"#ffffff", tooltipBackgroundColor:"#000000" }` |
 
